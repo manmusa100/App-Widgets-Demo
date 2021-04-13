@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">App Widgets Demo</string>
-    <string name="appwidget_text">DEMO WIDGET</string>
+    <string name="widget_text">DEMO WIDGET</string>
     <string name="add_widget">Add widget</string>
 </resources>
